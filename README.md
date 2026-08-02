@@ -27,4 +27,8 @@ records each.
 - charts/ — All EDA visualization outputs
 
 ## 📸 Dashboard Screenshots
-(Add your screenshots here)
+<img width="902" height="506" alt="page1 workforce" src="https://github.com/user-attachments/assets/e0b46dd2-fb4a-4c68-ac9e-6907de688cda" />
+<img width="903" height="508" alt="recruitment" src="https://github.com/user-attachments/assets/7f377a9f-ebe6-4b20-b893-78fd05bc54e3" />
+<img width="903" height="510" alt="attrition" src="https://github.com/user-attachments/assets/668493f2-6e91-43cb-82a0-66a928552428" />
+
+
